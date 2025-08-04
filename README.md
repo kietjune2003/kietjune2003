@@ -47,6 +47,7 @@ Tôi là một lập trình viên đam mê backend với kinh nghiệm xây dự
 - 🛍️ Quản lý sản phẩm, giỏ hàng, đơn hàng
 - 🔐 Tích hợp role-based authentication (admin/user)
 - 📦 Tìm kiếm sản phẩm theo danh mục, tên, giá. Hỗ trợ thanh toán qua QR code.
+
 🔗 [Xem dự án](https://github.com/kietjune2003/ShoesShop)
 
 ---
@@ -56,6 +57,7 @@ Tôi là một lập trình viên đam mê backend với kinh nghiệm xây dự
 
 - 📅 Quản lí lịch uống thuốc 
 - 🩺 Theo dõi lịch sử, cập nhật đơn thuốc
+
 🔗 [Xem dự án](https://github.com/kietjune2003/HealthcareApp)
 
 ---
