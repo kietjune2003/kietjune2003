@@ -1,7 +1,7 @@
 <h1 align="center">👋 Xin chào! Tôi là Kiệt</h1>
 
 <p align="center">
-  💻 Backend Developer | 🔐 Bảo mật hệ thống | 🌱 Đang học DevOps <br>
+  💻 Backend Developer | 🔐 Bảo mật hệ thống | 🌱 Đang học Fullstack Developer <br>
   📍 Việt Nam • 📧 k.code.2003@gmail.com
 </p>
 
@@ -38,7 +38,7 @@ Tôi là một lập trình viên đam mê backend với kinh nghiệm xây dự
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kietjune2003&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kietjune2003layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kietjune2003&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
