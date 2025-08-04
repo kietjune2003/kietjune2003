@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Backend Developer | 🔐 Bảo mật hệ thống | 🌱 Đang học DevOps <br>
-  📍 Việt Nam • 📧 kiet.dev.code@gmail.com
+  📍 Việt Nam • 📧 k.code.2003@gmail.com
 </p>
 
 ---
@@ -20,39 +20,25 @@ Tôi là một lập trình viên đam mê backend với kinh nghiệm xây dự
 
 ## 🚀 Kỹ năng chính
 
-- 🔧 **Backend:** Java, Spring Boot, Spring Security, JPA, Hibernate
-- 🗃️ **Cơ sở dữ liệu:** MySQL, PostgreSQL
+- 🔧 **Backend:** Java, Spring Boot, Spring Security, JPA, Hibernate, API Gateway, Microservices
+- 🗃️ **Cơ sở dữ liệu:** MySQL, PostgreSQL, SQL
 - 🧪 **Testing:** JUnit 5, Mockito
 - ⚙️ **Công cụ:** Git, Maven, IntelliJ IDEA, Docker (cơ bản)
 - 🖥️ **Frontend (cơ bản):** HTML, CSS, JavaScript, ReactJS (đang học)
 
 ---
 
-## 💡 Dự án tiêu biểu
-
-### 🗨️ ChatApp (Spring Boot REST API)
-Ứng dụng chat thời gian thực với:
-
-- ✅ Đăng ký/đăng nhập, mã hóa mật khẩu bằng `BCryptPasswordEncoder`
-- ✅ Xác thực JWT có kiểm tra `User-Agent`
-- ✅ Giới hạn 2 thiết bị đang hoạt động trên mỗi tài khoản
-- ✅ Gửi tin nhắn + tệp đính kèm giữa bạn bè
-- ✅ Unit test đầy đủ (AuthService, MessageService, FriendService)
-
-👉 Xem tại: [github.com/yourusername/chatapp](https://github.com/yourusername/chatapp)
-
----
 
 ## 📫 Liên hệ
 
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- Email: [kiet.dev.code@gmail.com](mailto:kiet.dev.code@gmail.com)
+- GitHub: [github.com/kietjune2003](https://github.com/kietjune2003)
+- Email: [k.code.2003@gmail.com](mailto:k.code.2003@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kietjune2003&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kietjune2003layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
