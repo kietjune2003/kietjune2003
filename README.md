@@ -28,6 +28,37 @@ Tôi là một lập trình viên đam mê backend với kinh nghiệm xây dự
 
 ---
 
+## 💼 Một số dự án tiêu biểu
+
+### 🗨️ InstanceChat
+> Nền tảng chat cá nhân hoá sử dụng Spring Boot với JWT và giới hạn đăng nhập 2 thiết bị.
+
+- ✅ Gửi/nhận tin nhắn và tệp theo thời gian thực (long-polling)
+- 🔐 Xác thực JWT có ràng buộc User-Agent
+- 📁 Upload và truy xuất file bảo mật
+- ✅ Unit test toàn diện với JUnit + Mockito  
+🔗 [Xem dự án](https://github.com/kietjune2003/VCC_Java_Instance_Chat)
+
+---
+
+### 👟 Shoes Shop (REST API)
+> Hệ thống quản lý bán hàng giày dép sử dụng RESTful API.
+
+- 🛍️ Quản lý sản phẩm, giỏ hàng, đơn hàng
+- 🔐 Tích hợp role-based authentication (admin/user)
+- 📦 Tìm kiếm sản phẩm theo danh mục, tên, giá. Hỗ trợ thanh toán qua QR code.
+🔗 [Xem dự án](https://github.com/kietjune2003/ShoesShop)
+
+---
+
+### 🏥 HealthcareApp
+> Ứng dụng chăm sóc sức khỏe quản lí, theo dõi lịch uống thuốc cá nhân.
+
+- 📅 Quản lí lịch uống thuốc 
+- 🩺 Theo dõi lịch sử, cập nhật đơn thuốc
+🔗 [Xem dự án](https://github.com/kietjune2003/HealthcareApp)
+
+---
 
 ## 📫 Liên hệ
 
