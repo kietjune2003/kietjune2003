@@ -1,79 +1,60 @@
-Dưới đây là nội dung file `README.md` giới thiệu bản thân bạn trên GitHub, được trình bày đẹp mắt, chuyên nghiệp và ấn tượng:
-
----
-
-````markdown
-<h1 align="center">👋 Xin chào, tôi là Kiệt!</h1>
+<h1 align="center">👋 Xin chào! Tôi là Kiệt</h1>
 
 <p align="center">
-  💻 Backend Developer | 🔐 Security Enthusiast | 📚 Đam mê học hỏi <br>
-  📍 Việt Nam | ✉️ kiet.dev.code@gmail.com
+  💻 Backend Developer | 🔐 Bảo mật hệ thống | 🌱 Đang học DevOps <br>
+  📍 Việt Nam • 📧 kiet.dev.code@gmail.com
 </p>
 
 ---
 
-## 🚀 Về tôi
+## 👨‍💻 Giới thiệu bản thân
 
-Tôi là một lập trình viên backend có nền tảng vững chắc về Java và Spring Boot. Tôi đặc biệt yêu thích các hệ thống bảo mật, tối ưu hiệu năng và xây dựng ứng dụng thực tế phục vụ cộng đồng.
+Tôi là một lập trình viên đam mê backend với kinh nghiệm xây dựng hệ thống an toàn và tối ưu trên nền tảng Java - Spring Boot. Tôi luôn theo đuổi việc viết code sạch, bảo mật, dễ mở rộng và không ngừng học hỏi các công nghệ mới.
 
-- 🔥 Đang phát triển: **ChatApp** với JWT, xác thực theo User-Agent, và quản lý phiên đăng nhập
-- ✅ Ưu tiên: **Bảo mật API**, **Kiến trúc sạch**, **Testing kỹ lưỡng**
-- 🌱 Mục tiêu: Học sâu về **DevOps**, **AI ứng dụng** và triển khai hệ thống quy mô lớn
-
----
-
-## 🛠️ Kỹ năng chính
-
-```java
-Backend      : Java, Spring Boot, JPA, Spring Security, JWT
-Database     : MySQL, PostgreSQL
-DevOps       : Git, Maven, Docker, GitHub Actions
-Testing      : JUnit 5, Mockito
-Frontend     : HTML, CSS, JS (basic), React (đang học)
-````
+- 🔐 Ưu tiên: Bảo mật API, JWT, kiểm tra người dùng bằng User-Agent
+- 🧪 Thành thạo viết unit test với JUnit 5 + Mockito
+- 🛠️ Có kinh nghiệm xây dựng ứng dụng RESTful API, xử lý file, xác thực, upload/download
+- 🌟 Đã triển khai hệ thống giới hạn đăng nhập 2 thiết bị với token theo thời gian sống
 
 ---
 
-## 🌟 Dự án nổi bật
+## 🚀 Kỹ năng chính
 
-### 🔹 [ChatApp Backend](https://github.com/yourusername/chatapp)
-
-> Ứng dụng chat mô phỏng Messenger sử dụng Java + Spring Boot + JWT
-
-* ✅ Đăng nhập đa phiên, giới hạn 2 thiết bị hoạt động
-* ✅ Kiểm tra User-Agent khi xác thực token
-* ✅ Gửi/nhận tin nhắn văn bản và file đính kèm
-* ✅ Lưu tin nhắn, bạn bè dưới dạng JSON tối ưu
+- 🔧 **Backend:** Java, Spring Boot, Spring Security, JPA, Hibernate
+- 🗃️ **Cơ sở dữ liệu:** MySQL, PostgreSQL
+- 🧪 **Testing:** JUnit 5, Mockito
+- ⚙️ **Công cụ:** Git, Maven, IntelliJ IDEA, Docker (cơ bản)
+- 🖥️ **Frontend (cơ bản):** HTML, CSS, JavaScript, ReactJS (đang học)
 
 ---
 
-## 📈 GitHub Stats
+## 💡 Dự án tiêu biểu
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
+### 🗨️ ChatApp (Spring Boot REST API)
+Ứng dụng chat thời gian thực với:
+
+- ✅ Đăng ký/đăng nhập, mã hóa mật khẩu bằng `BCryptPasswordEncoder`
+- ✅ Xác thực JWT có kiểm tra `User-Agent`
+- ✅ Giới hạn 2 thiết bị đang hoạt động trên mỗi tài khoản
+- ✅ Gửi tin nhắn + tệp đính kèm giữa bạn bè
+- ✅ Unit test đầy đủ (AuthService, MessageService, FriendService)
+
+👉 Xem tại: [github.com/yourusername/chatapp](https://github.com/yourusername/chatapp)
 
 ---
 
 ## 📫 Liên hệ
 
-* Email: [kiet.dev.code@gmail.com](mailto:kiet.dev.code@gmail.com)
-* GitHub: [github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: *điền nếu có*
+- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- Email: [kiet.dev.code@gmail.com](mailto:kiet.dev.code@gmail.com)
 
 ---
 
-> *“Luôn nỗ lực, luôn cải thiện – vì công nghệ không ngừng tiến hóa.”* 🚀
-
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="48%"/>
+</p>
 
 ---
 
-📌 **Việc cần làm**:
-- Đổi `yourusername` thành tên GitHub của bạn
-- Cập nhật email hoặc LinkedIn nếu có
-- Paste vào file `README.md` trong repository GitHub chính của bạn hoặc tại `github.com/yourusername/yourusername`
-
-Nếu bạn cần mình cá nhân hóa giúp (dán username thật, chèn avatar, gắn badge kỹ năng...), em có thể làm tiếp cho anh/chị.
-```
+> _"Không ngừng học hỏi – Không ngừng cải tiến – Không ngừng tiến về phía trước."_ 🚀
