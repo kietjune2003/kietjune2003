@@ -58,7 +58,7 @@ Tôi là một lập trình viên đam mê backend với kinh nghiệm xây dự
 - 📅 Quản lí lịch uống thuốc 
 - 🩺 Theo dõi lịch sử, cập nhật đơn thuốc
 
-🔗 [Xem dự án](https://github.com/kietjune2003/HealthcareApp)
+🔗 [Xem dự án](https://github.com/kietjune2003/Medication-Reminder)
 
 ---
 
